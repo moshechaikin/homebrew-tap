@@ -1,8 +1,8 @@
 class SmartOneg < Formula
   desc "The Ultimate Shabbos & Yom Tov Smart Home Automation App"
   homepage "https://smartoneg.com"
-  url "https://github.com/moshechaikin/smart-oneg/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "8ff5329a22f97db19f18b26a46f4ed210973c8720f8405171cc9efb4876a9c74"
+  url "https://github.com/moshechaikin/smart-oneg/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "fd4c81bfe1120336e5d7235ef33f715680e2f19b9a29be071f2bea658a500732"
   license "ISC"
 
   depends_on "node@22"
